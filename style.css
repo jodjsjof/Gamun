@@ -37,8 +37,8 @@ description {
 .card:focus,
 .card:active {
   color: #0070f3;
-  border-color: #0070f3;
-  background-color: #e0f7fa; /* Add a background color for the hover effect */
+  border-color: #53544e;
+  background-color: #727664; /* Add a background color for the hover effect */
 }
 
 .card h2 {
